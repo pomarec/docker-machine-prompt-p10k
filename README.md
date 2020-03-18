@@ -3,6 +3,10 @@
 The plugin displays the name of current docker machine (if not default).
 The plugin has been tested only with [oh-my-zsh](https://ohmyz.sh/) and [p10k](https://github.com/romkatv/powerlevel10k)
 
+
+![Example of docker-machine-prompt-p10k](
+  https://raw.githubusercontent.com/pomarec/docker-machine-prompt-p10k/master/example.png)
+
 To use it: 
 
 - clone repo to your plugin directory
